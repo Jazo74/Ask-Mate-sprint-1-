@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ask_Mate_sprint_1_</RootNamespace>
+  </PropertyGroup>
+
+
+
+</Project>
